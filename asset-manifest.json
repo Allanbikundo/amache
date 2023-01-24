@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/amache/static/css/main.942ef08b.css",
+    "main.js": "/amache/static/js/main.877f1b6e.js",
+    "static/js/787.7efd31bd.chunk.js": "/amache/static/js/787.7efd31bd.chunk.js",
+    "static/media/fa-solid-900.svg": "/amache/static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
+    "static/media/fa-brands-400.svg": "/amache/static/media/fa-brands-400.216edb96b562c79adc09.svg",
+    "static/media/fa-solid-900.eot": "/amache/static/media/fa-solid-900.efbd5d20e407bbf85f2b.eot",
+    "static/media/fa-solid-900.ttf": "/amache/static/media/fa-solid-900.07c3313b24f7b1ca85ee.ttf",
+    "static/media/water_delivery_services.jfif": "/amache/static/media/water_delivery_services.b1fe66445f5c259d8d90.jfif",
+    "static/media/women_drinking_water.jfif": "/amache/static/media/women_drinking_water.527dcc59c67533a11930.jfif",
+    "static/media/family_drinking_water.jfif": "/amache/static/media/family_drinking_water.223e5057fc1d329016de.jfif",
+    "static/media/fa-regular-400.svg": "/amache/static/media/fa-regular-400.19e27d348fefc21941e0.svg",
+    "static/media/young_boy.jfif": "/amache/static/media/young_boy.dda5ca5b62e8db91328e.jfif",
+    "static/media/fa-brands-400.eot": "/amache/static/media/fa-brands-400.89a52ae1d02b86d61439.eot",
+    "static/media/fa-brands-400.ttf": "/amache/static/media/fa-brands-400.9e138496e8f1719c6ebf.ttf",
+    "static/media/fa-solid-900.woff": "/amache/static/media/fa-solid-900.c6ec080084769a6d8a34.woff",
+    "static/media/fa-brands-400.woff": "/amache/static/media/fa-brands-400.329a95a9172fdb2cccb4.woff",
+    "static/media/fa-solid-900.woff2": "/amache/static/media/fa-solid-900.ada6e6df937f7e5e8b79.woff2",
+    "static/media/fa-brands-400.woff2": "/amache/static/media/fa-brands-400.c1210e5ebe4344da5083.woff2",
+    "static/media/fa-regular-400.eot": "/amache/static/media/fa-regular-400.4079ae2d2a15d0689568.eot",
+    "static/media/fa-regular-400.ttf": "/amache/static/media/fa-regular-400.1017bce89c72f95bcf8e.ttf",
+    "static/media/fa-regular-400.woff": "/amache/static/media/fa-regular-400.3672264812746c3c7225.woff",
+    "static/media/fa-regular-400.woff2": "/amache/static/media/fa-regular-400.68c5af1f48e2bfca1e57.woff2",
+    "index.html": "/amache/index.html",
+    "main.942ef08b.css.map": "/amache/static/css/main.942ef08b.css.map",
+    "main.877f1b6e.js.map": "/amache/static/js/main.877f1b6e.js.map",
+    "787.7efd31bd.chunk.js.map": "/amache/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.942ef08b.css",
+    "static/js/main.877f1b6e.js"
+  ]
+}
