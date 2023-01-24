@@ -33,10 +33,10 @@ export default function Landing() {
               <div className="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                 <div className="pr-12">
                   <h1 className="text-white font-semibold text-5xl">
-                    Your story starts with us.
+                    Drink Amache purified water, stay hydrated
                   </h1>
                   <p className="mt-4 text-lg text-gray-300">
-                    please fill in the form below to get started
+                    Amache drinking water is purified through filtration, reverse osmosis and UV treatment under strict quality assurance measures.
                   </p>
                 </div>
               </div>
@@ -118,25 +118,20 @@ export default function Landing() {
                   <i className="fas fa-user-friends text-xl"></i>
                 </div>
                 <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                  Working with us is a pleasure
+                  The reverse osmosis process
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700">
-                  Don't let your uses guess by attaching tooltips and popoves to
-                  any element. Just make sure you enable them first via
-                  JavaScript.
+                Reverse osmosis (RO) is a water purification method that uses pressure
+                 to force water through a semi-permeable membrane to remove impurities
+                 such as dissolved salts and other particles. Water filtered
+                  by RO typically has a low level of dissolved minerals and impurities
+                   that can make it taste clean and refreshing.
                 </p>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-gray-700">
-                  The kit comes with three pre-built pages to help you get
-                  started faster. You can change the text and images and you're
-                  good to go. Just make sure you enable them first via
-                  JavaScript.
+                Additionally, some impurities such as iron, sulfur, and chlorine can give water an
+                   unpleasant taste or odor, so removing them can improve the overall taste
+                    of the water.
                 </p>
-                <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation"
-                  className="font-bold text-gray-800 mt-8"
-                >
-                  Check Tailwind Starter Kit!
-                </a>
               </div>
 
               <div className="w-full md:w-4/12 px-4 mr-auto ml-auto">
